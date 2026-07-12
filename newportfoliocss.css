@@ -93,7 +93,7 @@ background-color: rgb(4, 34, 70);
     margin-left: 150px;
     border-radius: 400px;
     border: solid cyan 5px;
-      background-image: url("res_photojpeg.jpeg");
+      background-image: url("mephoto.jpeg");
     background-size: cover;    
     background-repeat: no-repeat;
     background-position: center;
@@ -353,7 +353,7 @@ background-color: rgb(4, 34, 70);
 .projleft1{
 
     width: 40%;
-     background-image: url("Screenshot 2026-06-10 222454.png");
+     background-image: url("evcon.png");
     background-size: cover;    
 border-radius: 15px;
     background-repeat: no-repeat;
@@ -362,7 +362,7 @@ border-radius: 15px;
 .projleft2{
 
     width: 40%;
-     background-image: url("Screenshot 2026-06-10 223319.png");
+     background-image: url("clinic.png");
     background-size: cover;    
 border-radius: 15px;
     background-repeat: no-repeat;
@@ -371,7 +371,7 @@ border-radius: 15px;
 .projleft3{
 
     width: 40%;
-     background-image: url("Screenshot 2026-06-10 223636.png");
+     background-image: url("chrono.png");
     background-size: cover;    
 border-radius: 15px;
     background-repeat: no-repeat;
